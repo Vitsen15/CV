@@ -11,7 +11,7 @@ Major: Computer science
 * *OS:* Windows
 * *Programming:* JavaScript, C#, HTML, HTML5, CSS3, OOP,
 * *Frameworks:* .NET
-* *UI:* jQueryUI, Bootstrap
+* *UI:* Bootstrap
 * *Dev tools:* IntelliJ, PhpStorm, Visual Studio
 * *VCS*: Git
 * *Modeling:* UML
