@@ -8,11 +8,11 @@ No working experience
 Major: Computer science  
 
 ## Skills
-* *OS:* Windows
-* *Programming:* JavaScript, C#, HTML, HTML5, CSS3, OOP,
-* *Frameworks:* .NET
-* *UI:* Bootstrap
-* *Dev tools:* IntelliJ, PhpStorm, Visual Studio
+* *OS:* Linux, Windows
+* *Programming:* JavaScript, Java, C#(basics), HTML, CSS3
+* *Frameworks:* .NET, Angular1
+* *UI:* Bootstrap(basics)
+* *Dev tools:* NetBeans, IntelliJ, Brackets, PhpStorm, Visual Studio
 * *VCS*: Git
 * *Modeling:* UML
 
