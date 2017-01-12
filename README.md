@@ -13,7 +13,7 @@ Major: Computer science
 * *Frameworks:* .NET, Angular1
 * *UI:* Bootstrap(basics)
 * *Dev tools:* NetBeans, IntelliJ, Brackets, PhpStorm, Visual Studio
-* *VCS*: Git
+* *VCS*: Git(Github)
 * *Modeling:* UML
 
 
