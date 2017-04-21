@@ -9,8 +9,8 @@ Major: Computer science
 
 ## Skills
 * *OS:* Linux, Windows
-* *Programming:* JavaScript, Java, C#(basics), HTML, CSS3
-* *Frameworks:* .NET, Angular1
+* *Programming:* JavaScript, Java(basics), C#(basics), HTML, CSS3
+* *Frameworks:* Angular1
 * *UI:* Bootstrap(basics)
 * *Dev tools:* NetBeans, IntelliJ, Brackets, PhpStorm, Visual Studio
 * *VCS*: Git(Github)
