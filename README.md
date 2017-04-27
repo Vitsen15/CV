@@ -4,7 +4,7 @@ No working experience
 ## Education
 *Sept. 2013 - Current*  
 **Bachelor degree**  
-[Petro Mohyla Black Uea University](http://chdu.edu.ua/), Ukraine  
+[Petro Mohyla Black Uea University](https://chdu.edu.ua/), Ukraine  
 Major: Computer science  
 
 ## Skills
