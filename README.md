@@ -1,22 +1,27 @@
-## Education
-*Sept. 2013 - June. 2017*  
-**Bachelor degree**  
-[Petro Mohyla Black Sea University](https://chdu.edu.ua/), Ukraine  
-Major: Computer engineering
+*Apr. 2019 - Curr.*
+**Linux Migration Administrator**
+[GeeksForLess](https://geeksforless.com/), Ukraine
 
-*Sept. 2017 - Current*  
-**Magister degree**  
-[Petro Mohyla Black Sea University](https://chdu.edu.ua/), Ukraine  
-Major: Automatization and computer integrated technologies
+*Oct. 2018 - Mar. 2019*
+**Linux MySQL DBA**
+[GeeksForLess](https://geeksforless.com/), Ukraine
+
+*Feb. 2018 - Sept. 2018*
+**PHP developer**
+[Tangram](https://tangram.ua), Ukraine
+
+## Education
+*Sept. 2013 - Jun. 2017*
+**Bachelor degree**
+[Petro Mohyla Black Sea University](https://chdu.edu.ua/), Ukraine
+Major: Computer engineering
 
 ## Skills
 * *OS:* Linux, Windows
-* *Programming:* PHP JavaScript, HTML, CSS3, SASS, Java(basics), C(basics) C#(basics)
-* *Frameworks:* AngularJS(basics)
-* *Libraries:* jQuery, Handlebars
-* *Data Bases:* MySQL
-* *UI:* Bootstrap(basics)
-* *Dev tools:* PhpStorm, NetBeans, Brackets, Visual Studio
+* *Programming:* PHP, JavaScript, HTML, CSS3, SASS
+* *Frameworks:* Laravel, YII2, Bootstrap
+* *Libraries:* jQuery
+* *Data Bases:* MySQL, MondoDB
+* *Dev tools:* PhpStorm, NetBeans, Vim, Gulp
 * *VCS*: Git(Github, Bitbacket, Gitlab)
-
-
+* *English*: pre-intermediate
