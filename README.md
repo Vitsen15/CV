@@ -23,6 +23,6 @@ Major: Computer engineering
 * *Frameworks:* Laravel (strong jun), YII2 (jun), Bootstrap
 * *Libraries:* jQuery (middle)
 * *Data Bases:* MySQL (middle), MondoDB
-* *Dev tools:* PhpStorm, NetBeans, Vim, Gulp
+* *Dev tools:* PhpStorm, VSCode, Vim, Gulp, Webpack
 * *VCS*: Git(Github, Bitbacket, Gitlab)
 * *English*: intermediate
