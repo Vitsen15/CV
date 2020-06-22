@@ -18,11 +18,11 @@ Major: Computer engineering
 
 ## Skills
 * *OS:* Linux, Windows
-* *Programming:* PHP (strong jun), JavaScript (strong jun), HTML (jun), CSS3 (jun), SASS (jun)
-* *System Administration:* Linux (strong jun), Docker (strong jun)
-* *Frameworks:* Laravel (strong jun), YII2 (jun), Bootstrap
-* *Libraries:* jQuery (middle)
-* *Data Bases:* MySQL (middle), MondoDB
+* *Programming:* PHP, JavaScript, HTML, CSS3, SASS
+* *System Administration:* Linux, Docker
+* *Frameworks:* Laravel, YII2, Bootstrap
+* *Libraries:* jQuery
+* *Data Bases:* MySQL, MondoDB
 * *Dev tools:* PhpStorm, VSCode, Vim, Gulp, Webpack
 * *VCS*: Git(Github, Bitbacket, Gitlab)
 * *English*: intermediate
