@@ -20,7 +20,7 @@ Major: Computer engineering
 * *OS:* Linux, Windows
 * *Programming:* PHP, JavaScript, HTML, CSS3, SASS
 * *System Administration:* Linux, Docker
-* *Frameworks:* Laravel, YII2, Bootstrap
+* *Frameworks:* Laravel, YII2, Vue.js
 * *Libraries:* jQuery
 * *Data Bases:* MySQL, MondoDB
 * *Dev tools:* PhpStorm, VSCode, Vim, Gulp, Webpack
