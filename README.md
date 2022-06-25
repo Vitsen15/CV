@@ -58,8 +58,8 @@
 **PHP developer**
 [Tangram](https://tangram.ua)\
 **Location**: Ukraine, Mykolaiv
-* Developing(extending) admin panel on YII2 (adding RBAC and CRUD's) anddeploy to production by ftp.
-* Bug fix, plugins developing for Wordpress, site and deploy to production by ftp.
+* Developing(extending) admin panel on YII2 (adding RBAC and CRUD's) and deploying to production by FTP.
+* Bug fix, developing plugins for Wordpress, site and deploying to production by FTP.
 * Developing composer package for simultaneous multiprocessing upload/ download files to cloud storages (GDrive, OneDrive, Dropbox) using REST API.
 ---
 
@@ -74,7 +74,7 @@ Major: Computer engineering
 * *Programming:* PHP(5.6, 7+, 8+), JavaScript (native, jquery), Java (basic level)
 * *System Administration:* Linux, Docker[[my setup](https://github.com/Vitsen15/docker-LEMP)]
 * *Frameworks:* Laravel, PhpUnit, Vue.js(basic level)
-* *Data Bases:* MySQL, MongoDB(basic level)
+* *Databases:* MySQL, MongoDB(basic level)
 * *Dev tools:* PhpStorm, IntelliJ IDEA, VSCode, Vim, Webpack
 * *VCS*: Git(Github, Bitbacket, Gitlab) , Gitflow
 * *English*: intermediate
