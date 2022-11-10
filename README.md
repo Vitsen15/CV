@@ -15,7 +15,7 @@
 
 ## Employment History:
 
-*Oct. 2020. – Curr*\
+*Jun. 2021. – Curr*\
 **PHP Developer,
 [GeeksForLess](https://geeksforless.com/)**\
 **Location**: Ukraine, Remote
