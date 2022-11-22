@@ -2,7 +2,7 @@
 
 ## Contact info:
 * Email: vitsentovich.andrey@gmail.com
-* Location: Lviv, Remote
+* Location: Remote
 
 ## Profile:
 * More than 2 years of PHP developing experience.
