@@ -2,7 +2,6 @@
 
 ## Contact info:
 * Email: vitsentovich.andrey@gmail.com
-* Phone: +380996379612
 * Location: Lviv, Remote
 
 ## Profile:
