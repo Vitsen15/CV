@@ -5,7 +5,7 @@
 * Location: Remote
 
 ## Profile:
-* More than 2 years of PHP developing experience.
+* About 3 years of PHP developing experience.
 * Strong knowledge of object-oriented concepts.
 * Experience with applications security issues.
 * Experience in REST API development.
@@ -19,7 +19,7 @@
 [GeeksForLess](https://geeksforless.com/)**\
 **Location**: Ukraine, Remote
 * Maintaining REST API of shared hosting platform with millions of users: fixing bugs, implementing new API endpoints, reviewing colleagues code, writing unit tests (PhpUnit), Investigating and fixing security issues from tools like: Checkmarks, Sonarcube.
-* Developing next generation application architecture with new [routing](https://route.thephpleague.com/), [dependency injection container](https://php-di.org/) and [middlewares](https://route.thephpleague.com/5.x/middleware/).
+* Developing next generation application architecture with new [routing](https://route.thephpleague.com/), [dependency injection container](https://php-di.org/) and [middlewares](https://route.thephpleague.com/5.x/middleware/). Integrating [Doctrine ORM](https://www.doctrine-project.org/projects/doctrine-orm/en/2.13/index.html) to project, implementing custom [Persistence](https://www.doctrine-project.org/projects/doctrine-persistence/en/3.1/reference/index.html) functiolality to handle mulltiple database access with their's own `EmtityManagers`, `Entities` and `Repositories`.
 ---
 
 *Oct. 2020. – May. 2021.*\
