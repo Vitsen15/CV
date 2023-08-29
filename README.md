@@ -5,16 +5,24 @@
 * Location: Remote
 
 ## Profile:
-* About 3 years of PHP developing experience.
+* About 5 years of PHP developing experience.
 * Strong knowledge of object-oriented concepts.
 * Experience with applications security issues.
 * Experience in REST API development.
 * Experience of work in a big product company.
-* Near one year experience of Laravel development.
+* Near two years experience of Laravel development.
 
 ## Employment History:
 
-*Jun. 2021. – Curr*\
+*Jun. 2023. – Curr*\
+**PHP Developer,
+[Yual](https://yual.io/)**\
+**Location**: Ukraine, Remote
+* Maintaining and developing [Satoshi Hero](https://satoshihero.com/).
+* Working only with laravel framework.
+---
+
+*Jun. 2021. – Mar. 2023*\
 **PHP Developer,
 [GeeksForLess](https://geeksforless.com/)**\
 **Location**: Ukraine, Remote
