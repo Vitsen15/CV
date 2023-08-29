@@ -70,9 +70,9 @@ Major: Computer engineering
 
 ## Skills
 * *OS:* Linux, Windows
-* *Programming:* PHP(5.6, 7+, 8+), JavaScript (native, jquery), Java (basic level)
+* *Programming:* PHP(5.6, 7+, 8+), golang (basic level), JavaScript (native, jquery)
 * *System Administration:* Linux, Docker[[my setup](https://github.com/Vitsen15/docker-LEMP)]
-* *Frameworks:* Laravel, PhpUnit, Vue.js(basic level)
+* *Frameworks:* Laravel, PhpUnit
 * *Databases:* PostgreSQL, MySQL, MongoDB(basic level)
 * *Dev tools:* PhpStorm, IntelliJ IDEA, VSCode, Vim, Webpack
 * *VCS*: Git(Github, Bitbacket, Gitlab) , Gitflow
