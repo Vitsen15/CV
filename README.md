@@ -5,12 +5,12 @@
 * Location: Remote
 
 ## Profile:
-* About 5 years of PHP developing experience.
+* About 6 years of PHP developing experience.
 * Strong knowledge of object-oriented concepts.
 * Experience with applications security issues.
 * Experience in REST API development.
 * Experience of work in a big product company.
-* Near two years experience of Laravel development.
+* Near three years experience of Laravel development.
 
 ## Employment History:
 
@@ -20,14 +20,21 @@
 **Location**: Ukraine, Remote
 * Maintaining and developing [Satoshi Hero](https://satoshihero.com/).
 * Working only with laravel framework.
+* Architected and integrated secure payment gateways to handle multi-currency deposits, withdrawals, and real-time conversions between fiat and various cryptocurrencies.
+* Ensured fault-tolerant transactional workflows and audit trails, adhering to KYC and AML compliance standards.
+* Leveraged Elasticsearch to index gambling games data, designed search of games using Laravel scout anr [explorer](https://github.com/Jeroen-G/Explorer) library as search engine.
+* Integrated Google Analytics API at the backend level to track user journeys, conversions, and engagement metrics.
+* Integrated a full [KYC](https://www.veriff.com/) (Know Your Customer) system to verify user identities, reduce fraud, and meet regulatory requirements (ID checks, AML compliance).
+* Implemented a highly configurable bonus engine, allowing creation of cashback programs, rakebacks, and loyalty rewards; automated calculation and distribution of bonuses tied to user activity, wagering volume, or promotional triggers, boosting user retention and spend.
+* Utilized RabbitMQ producers and consumers to handle asynchronous, cross-project balance transfers securely; ensured data consistency and real-time synchronization of user funds, minimizing reconciliation issues and enhancing user trust.
 ---
 
 *Jun. 2021. – Mar. 2023*\
 **PHP Developer,
 [GeeksForLess](https://geeksforless.com/)**\
 **Location**: Ukraine, Remote
-* Maintaining REST API of shared hosting platform with millions of users: fixing bugs, implementing new API endpoints, reviewing colleagues code, writing unit tests (PhpUnit), Investigating and fixing security issues from tools like: Checkmarks, Sonarcube.
-* Developing next generation application architecture with new [routing](https://route.thephpleague.com/), [dependency injection container](https://php-di.org/) and [middlewares](https://route.thephpleague.com/5.x/middleware/). Integrating [Doctrine ORM](https://www.doctrine-project.org/projects/doctrine-orm/en/2.13/index.html) to project, implementing custom [Persistence](https://www.doctrine-project.org/projects/doctrine-persistence/en/3.1/reference/index.html) functiolality to handle mulltiple database access with their's own `EmtityManagers`, `Entities` and `Repositories`.
+* Maintaining REST API of shared hosting platform with millions of users: fixing bugs, implementing new API endpoints, reviewing colleagues code, writing unit tests (PhpUnit), Investigating and fixing security issues found by security depatment or from tools like: Checkmarks, Sonarcube.
+* Developed next generation application architecture with new [routing](https://route.thephpleague.com/), [dependency injection container](https://php-di.org/) and [middlewares](https://route.thephpleague.com/5.x/middleware/). Integrating [Doctrine ORM](https://www.doctrine-project.org/projects/doctrine-orm/en/2.13/index.html) to project, implementing custom [Persistence](https://www.doctrine-project.org/projects/doctrine-persistence/en/3.1/reference/index.html) functiolality to handle mulltiple database access with their's own `EmtityManagers`, `Entities` and `Repositories`.
 ---
 
 *Oct. 2020. – May. 2021.*\
