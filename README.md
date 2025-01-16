@@ -83,11 +83,12 @@
 Major: Computer engineering
 
 ## Skills
-* *OS:* Linux, Windows
-* *Programming:* PHP(5.6, 7+, 8+), golang (basic level), JavaScript (native, jquery)
+* *OS:* Linux, Windows, MacOS
+* *Programming:* PHP(5.6, 7+, 8+), golang (basic level), JavaScript (basic level)
 * *System Administration:* Linux, Docker[[my setup](https://github.com/Vitsen15/docker-LEMP)]
 * *Frameworks:* Laravel, PhpUnit
-* *Databases:* PostgreSQL, MySQL, MongoDB(basic level)
-* *Dev tools:* PhpStorm, IntelliJ IDEA, VSCode, Vim, Webpack
-* *VCS*: Git(Github, Bitbacket, Gitlab) , Gitflow
+* *Databases:* PostgreSQL, MySQL
+* *Dev tools:* PhpStorm, VSCode, Vim, Postman
+* AI: ChatGPT
+* *VCS*: Git(Github, Gitlab), Gitflow
 * *English*: intermediate
