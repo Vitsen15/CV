@@ -1,16 +1,33 @@
 <h1 align="center">Vitsentovych Andrii, PHP Developer</h1>
 
 ## Contact info:
-* Email: vitsentovich.andrey@gmail.com
-* Location: Remote
+- **Email:** vitsentovich.andrey@gmail.com
+- **Location:** Remote
 
 ## Profile:
-* About 6 years of PHP developing experience.
-* Strong knowledge of object-oriented concepts.
-* Experience with applications security issues.
-* Experience in REST API development.
-* Experience of work in a big product company.
-* Near three years experience of Laravel development.
+- About 6 years of PHP developing experience.
+- Strong knowledge of object-oriented concepts.
+- Experience with applications security issues.
+- Experience in REST API development.
+- Experience of work in a big product company.
+- Nearly three years of Laravel development experience.
+
+## Skills:
+- **OS:** Linux, Windows, MacOS
+- **Programming:** PHP (5.6, 7+, 8+), Go (basic), JavaScript (basic)
+- **System Administration:** Linux, Docker [[my setup](https://github.com/Vitsen15/docker-LEMP)]
+- **Frameworks:** Laravel, PhpUnit
+- **Databases:** PostgreSQL, MySQL
+- **Dev Tools:** PhpStorm, VSCode, Vim, Postman
+- **AI:** ChatGPT
+- **VCS:** Git (GitHub, GitLab), Gitflow
+- **English:** Intermediate
+
+## Education
+*Sept. 2013 - Jun. 2017*\
+**Bachelor degree**
+[Petro Mohyla Black Sea University](https://chdu.edu.ua/), Ukraine\
+Major: Computer engineering
 
 ## Employment History:
 
@@ -75,20 +92,3 @@
 * Bug fix, developing plugins for Wordpress, site and deploying to production by FTP.
 * Developing composer package for simultaneous multiprocessing upload/ download files to cloud storages (GDrive, OneDrive, Dropbox) using REST API.
 ---
-
-## Education
-*Sept. 2013 - Jun. 2017*\
-**Bachelor degree**
-[Petro Mohyla Black Sea University](https://chdu.edu.ua/), Ukraine\
-Major: Computer engineering
-
-## Skills
-* *OS:* Linux, Windows, MacOS
-* *Programming:* PHP(5.6, 7+, 8+), golang (basic level), JavaScript (basic level)
-* *System Administration:* Linux, Docker[[my setup](https://github.com/Vitsen15/docker-LEMP)]
-* *Frameworks:* Laravel, PhpUnit
-* *Databases:* PostgreSQL, MySQL
-* *Dev tools:* PhpStorm, VSCode, Vim, Postman
-* AI: ChatGPT
-* *VCS*: Git(Github, Gitlab), Gitflow
-* *English*: intermediate
