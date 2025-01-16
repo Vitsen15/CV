@@ -21,8 +21,7 @@
 * Maintaining and developing [Satoshi Hero](https://satoshihero.com/).
 * Working only with laravel framework.
 * Architected and integrated secure payment gateways to handle multi-currency deposits, withdrawals, and real-time conversions between fiat and various cryptocurrencies.
-* Ensured fault-tolerant transactional workflows and audit trails, adhering to KYC and AML compliance standards.
-* Leveraged Elasticsearch to index gambling games data, designed search of games using Laravel scout anr [explorer](https://github.com/Jeroen-G/Explorer) library as search engine.
+* Leveraged Elasticsearch to index gambling games data, designed search of games using Laravel scout and [explorer](https://github.com/Jeroen-G/Explorer) library as search engine.
 * Integrated Google Analytics API at the backend level to track user journeys, conversions, and engagement metrics.
 * Integrated a full [KYC](https://www.veriff.com/) (Know Your Customer) system to verify user identities, reduce fraud, and meet regulatory requirements (ID checks, AML compliance).
 * Implemented a highly configurable bonus engine, allowing creation of cashback programs, rakebacks, and loyalty rewards; automated calculation and distribution of bonuses tied to user activity, wagering volume, or promotional triggers, boosting user retention and spend.
