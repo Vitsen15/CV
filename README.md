@@ -23,12 +23,6 @@
 - **VCS:** Git (GitHub, GitLab), Gitflow
 - **English:** Intermediate
 
-## Education
-*Sept. 2013 - Jun. 2017*\
-**Bachelor degree**
-[Petro Mohyla Black Sea University](https://chdu.edu.ua/), Ukraine\
-Major: Computer engineering
-
 ## Employment History:
 
 *Jun. 2023. – Curr*\
@@ -92,3 +86,9 @@ Major: Computer engineering
 * Bug fix, developing plugins for Wordpress, site and deploying to production by FTP.
 * Developing composer package for simultaneous multiprocessing upload/ download files to cloud storages (GDrive, OneDrive, Dropbox) using REST API.
 ---
+
+## Education
+*Sept. 2013 - Jun. 2017*\
+**Bachelor degree**
+[Petro Mohyla Black Sea University](https://chdu.edu.ua/), Ukraine\
+Major: Computer engineering
